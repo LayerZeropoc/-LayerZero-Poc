@@ -1,6 +1,6 @@
 ## Become a Validator
 Immunefi_MATIC uses Proof of Stake (PoS) and Proof of work  (PoW) 
-merge (PoS) new consensus model. It means that the network’s security and stability is maintained by a set of network validators. Anyone can become a validator and receive MATIC as a reward while contributing to network security.
+merge (PoC) new consensus model. It means that the network’s security and stability is maintained by a set of network validators. Anyone can become a validator and receive MATIC as a reward while contributing to network security.
 
 ## What validators do
 Network validators verify all user transactions. If all validators reach consensus that a transaction is valid, it is included in the blockchain. Invalid transactions are rejected.
